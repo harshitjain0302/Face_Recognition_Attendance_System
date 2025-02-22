@@ -1,4 +1,4 @@
-Face Recognition Attendance System (FRAS)
+# Face Recognition Attendance System (FRAS)
 
 📌 Description
 
